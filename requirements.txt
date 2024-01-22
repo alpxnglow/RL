@@ -1,5 +1,5 @@
 atari-py
-gym
+gym==0.15.3
 numpy
 torch
 nltk
@@ -10,5 +10,3 @@ tensorflow
 tensorboardX
 opencv-python
 pytorch-ignite
-pybullet
-# torchvision
